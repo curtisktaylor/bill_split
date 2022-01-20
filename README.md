@@ -11,3 +11,5 @@ Set your city's sales tax by going to settings.
 Then add your friends to a new SplitBill and record how much each item costs.
 
 <img src='demo.gif' title='Video Walkthrough # 2' width='' alt='Video Walkthrough # 2' />
+
+That's it! Enjoy your night out with your friends.
